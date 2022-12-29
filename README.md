@@ -1,5 +1,5 @@
 # PythonPasswordGenerator
-A random password generator that generates a random password based off of certain parameters.
+A random password generator that using parameters.
 ## The Code
 ### Before We Begin
 
